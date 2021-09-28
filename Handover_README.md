@@ -9,7 +9,7 @@ Marine Noise Registry Documents
 
 Log in using the following details:
 >**O&G portal Login** – rachel.king@jncc.gov.uk
-**Password** – MNR2021!
+>**Password** – MNR2021!
 
 **Next Page** > will present the main workbasket page.
 
