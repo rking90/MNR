@@ -112,7 +112,9 @@ At this point, the entry will either be submitted as a proposed activity or you 
 Closing Out an MoD Activity Entry
 ------------------------
 
-Select Activity AAN in proposed activity wedpage
+Select Activity AAN in proposed activity webpage
+or
+Select Activity AAN in close out notification sent to Noise Monitoring email
 
 **SELECT** - Close out activity (Right hand side)
 
