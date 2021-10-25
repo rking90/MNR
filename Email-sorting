@@ -2,9 +2,12 @@ MNR Email Sorting – Rachel King – Sept 2021
 Noise Monitoring Email Folders
 
 >### ADMIN  
-------
+---
+> **Important Info**
+>- Emails relating to the MNR that does not fall within any of the standard categories yet are still important to keep track of
+
 >	**Issues to Resolve**
->- Any emails requiring further information/clarification/amendments.  
+>- Any emails regardless of category/company etc, requiring further information/clarification/amendments.  
 
 >	**Late Close-Out-Reports**
 >- Automated emails from MNR regarding entries submitted by us, that still require official closing out after the proposed close out date given.  
@@ -16,43 +19,48 @@ Noise Monitoring Email Folders
 >- Automated responses from emails that were not delivered to the user – need to check that users are still active and if required – remove them from the database.
 
 >### BEIS – Business Energy & Industrial Strategy
----------------------------------------------
+---
+> **Close-out Reports completed**
+>- Once the close-out report has been completed emails from the to-do folders are to be moved here.
+
 > **Close-Out-Reports to do**
 >- 2018 >2019 >2020 >2021  
 >- Emails regarding the closing-out of proposed activities from the BEIS portal – Emails to be moved in to correct year folder   
-
-> **N/A**     
->- Not entirely sure what this folder is for yet
 
 > **Piling Notifications**
 >- Not entirely sure what this folder is for yet
 
 >### **DAERA – Department of Agriculture, Environmental, and Rural Affairs**
----------------------------------------
+---
+>- No internal folders to date
+>- No emails present to date
+
 >### **MMO – Marine Management organisation**
--------------------------------------
+---
+
+> **MMO - MCMS**
+
 > **MMO - VolNot**  
-> **MMO - VolNot Cancelled**   
-> **MMO - VolNot Completed**     
+  > **MMO - VolNots not recorded**   
+    >- Once VolNots have been determined to be unsuitable for uploading, the original email notification must be moved in to this folder
+  > **MMO - VolNots recorded**
+    >- Once volnots have been recorded in to the MNR, the original email notification must be moved in to this folder
+  > **MMO - VolNots to do**     
+    >- Any emails that are submitted via the MMO on a voluntary basis rather than via license require
 
-> **MMO - VolNot To Do**   
->- Any emails that are submitted via the MMO on a voluntary basis rather than via license require
-
-> **MMO MCMS – Completed**  
->- Any emails received via the MMO Marine Case Management System that have been uploaded and are to be closed out.  
-
-> **MMO MCMS – To Do**
->- Any emails received via the MMO Marine Case Management System that are yet to be uploaded.  
-
-> **MMO – Out-with Frequency Band**
->- Any emails received via the MMO Marine Case Management System. That are out-with the frequency range we are interested in and therefore do not require uploading  
-
-> **MMO Band 3 Issues**
->- ***We should not receive any emails regarding Band 3 issues. These are uploaded directly to the MNR by the operator themselves.  
+  > **MMO MCMS - Not Recorded**
+    >- Once MCMS have been determined to be unsuitable for uploading, the original email notification must be moved in to this folder
+  > **MMO MCMS – Recorded**  
+    >- Once MCMS have been recorded in to the MNR, the original email notification must be moved in to this folder
+  > **MMO MCMS – To Do**
+    >- Any emails received via the MMO Marine Case Management System that are yet to be uploaded.  
+  
+  > **MMO Band 3 Issues**
+    >- ***We should not receive any emails regarding Band 3 issues. These are uploaded directly to the MNR by the operator themselves.  
 
 
 > ### **MOD – Ministry of Defence**
-> ---------------------------------
+---
 
 >**MoD - ASW Check**
 >- Emails relating to MoD proposed ASW Checks
@@ -76,23 +84,22 @@ Noise Monitoring Email Folders
 >- Pre-prepared folder awaiting the new quarters proposed activity uploads for dates within the 1st of October to the 30th of November.
 
 > ### **MS – Marine Scotland**
---------------------
-> **N/A**
->- Not entirely sure what this folder is for yet
-
->**Recorded (MNR)**
->- Not entirely sure what this folder is for yet
+---
+>- No internal folders to date
+>- No emails present to date
   
 > ### **NRW – Natural Resources Wales**
----------------------------------------
-> No Internal Folders
+---
+>- No internal folders to date
+>- No emails present to date
 
 >### **Other Noise (explosives)**
----------------------------------
-> No Internal Folders
+---
 >- Emails relating to entries that mention explosive detonation.
 
 >### **OLD <2021**
-------------------
+---
 >No Internal Folders
 >- Old emails prior to 01/01/2021
+>- No internal folders to date
+>- No emails present to date
