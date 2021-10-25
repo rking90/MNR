@@ -31,46 +31,111 @@ Check the spreadsheet (file path below) to see if information is already within 
 
 Z:\Marine\Directives&Conventions\MSFD\UK_Implementation\Art10_Targets&Indicators\R&D\Noise\MNRSept2014_onwards\Noise_Data\Interim\MMO\MMO_MCMS_MNR_proposed_record.xlsx
 
-> Application are presented in chronological order (Earliest first), search through the applications to determine whether the application has already been submitted
+> Application are presented in chronological order (earliest first), search through the applications to determine whether the application has already been submitted
 > If yes, check that there have not been any updates - requiring alterations/deletions etc to the current MNR upload
-> If no, input the application details in to the spreadsheet for future reference 
+> If no, input the application details (MLA, Company name and Fee Band) in to the spreadsheet for future reference 
 
 Navigate back to the MMO portal.
 Scroll down through the application consultation page. 
 
-In the Review Ites section:
+In the Review Items section:
 Select: View Application:
 
-*************************** Updated to here
+> Please Note
+---
+Details for these uploads are not presented in a standardised format.
+You are required to search around through the sections of the application to identify important information.
 
-Ensure it will involve an impulsive noise generating activity (look at sections XXX and environmental documents included in application, located XXX)
+Important points to search for:
+---
 
-Ensure it is in Marine /transitional waters (encompassed by blocks) – WFD Transitional Waters shapefile saved here on the network- https://data.gov.uk/dataset/3a75ec5f-a361-475c-80e3-52d93bbc5dbe/wfd-transitional-and-coastal-waterbodies-cycle-2.
+> Fee Band 1 or 2 or 3
+> We are only interested in Fee band 1 and 2 (equivelant)
 
- 
+> Impulsive/Not Impulsive
+> Ensure it will involve an impulsive noise generating activity (look at sections XXX and environmental documents included in section: Project Details
 
-Route around in the application to find the details required.
+> Inside/Outside remit
+> Ensure it is in Marine /transitional waters (encompassed by blocks) 
+WFD Transitional Waters shapefile saved here on the network: 
+https://data.gov.uk/dataset/3a75ec5f-a361-475c-80e3-52d93bbc5dbe/wfd-transitional-and-coastal-waterbodies-cycle-2
 
-For start end date, see if there is more accurate date information in methodology information, if not, use the licence start/end date
+MNR Upload
+===
 
-Send the applicant an email for GDPR reasons – see here
+Navigate to the MNR webpage
+https://mnr.jncc.gov.uk/home
 
+Log in using the following details:
+**Login**: Noise.monitoring@jncc.gov.uk
+**Password**: NoiseReg2016
 
+> Select: Create new proposed activity
+
+Organisation: 
 For organisation details:
-•	Input the applicant’s details
-•	If an individual, use the individuals name as organisation
+> Input the company name provided on the application homepage 
+>-	If an individual rather than a company, Input the individuals name as organisation
 
-Record the application details also in THIS spreadsheet
-•	Ensure the marine licence number and AAN are recorded.
+Regulator:
+> Marine Management Organisation 
 
+Voluntary Notification
+> NO
 
-Finally delete email and clear from the workbasket. 
-Take ownership
-No comment, submit response
+Earliest Start Date:
+Latest End Date:
+> If exact dates are given within the methodology section (of application or associated documentation), use those given.
+> If exact dates are not given, use the proposed license start and end date provided on the license summary section
+
+Duration:
+> If no exact duration is provided, input the number of days between that start and end date
+
+Activity Type:
+> Select: appropriate activity type
+
+> Input any information provided
+> Mandatory: Frequecy Value
+> Optional: SEL Value SPL Value
+
+Location:
+Navigate to Sites/activities summary
+Beneath the maps provided 
+> Select: View sites
+
+> Site information will be provided in lat/long data
+Use this data to produce a polygon in the MNR
+**If the list is relatively small > Input coordinates manually
+**If the list is large > Input coordinates via CSV in the same way that you would for MoD/BEIS inputs.
+
+Once the application has been fully uploaded to the MNR
+>Send the applicant an email for GDPR reasons:
+>- See email template here:
+Z:\Marine\Directives&Conventions\MSFD\UK_Implementation\Art10_Targets&Indicators\R&D\Noise\MNRSept2014_onwards\Noise_Data\Interim\MMO\EmailTempl_PrivacyNotice_MCMS.docx
+
+> You will find the main applicants contact details within the homepage of the application as aswell as the contacts section of the applciation.
 
 
 Trouble shooting
 
-•	If you receive a band 3 application, contact the case team or case officer related.
-o	Check if done by mistake.
-o	Check licence condition is included (band 3 applications should have a licence condition added to the subsequent licence requiring the applicant to complete data entry to the MNR.)
+> Fee Band 1, 2 or 3
+If you receive a band 3 application, contact the case team or case officer related.
+>- In the meantime, input the application in to the MMO spreadsheet and note that the application is band 3
+
+When checking with Case officer
+>-	Check if application was done by mistake.
+>-	Check application to see if licence condition is included: 
+(band 3 applications should have a licence condition added to the subsequent licence requiring the applicant to complete data entry to the MNR.) <- what the holy hell does this mean???
+
+> Impulsive / Not Impulsive
+> If the application indicates that the piling activites are vibro or other (not impulsive) the application is not required to be uploaded to the MNR
+
+> Inside/Outside Remit
+> Sometimes the activity is occurring far enough up river that it falls outwith the MNR remit as it is unlikely to impact marine wildlife.
+
+MMO Case Officer contact details:
+1 - Michael Stedman, Marine Licensing Team, michael.stedman@marinemanagement.org.uk, +44 (0)2081 234 567
+2 - 
+3 - 
+4 - 
+5 - 
