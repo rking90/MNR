@@ -1,25 +1,47 @@
+MMO-MCMS-Upload
+===
+
 You will receive an email from the MCMS portal system.
 It will come into the Noise monitoring inbox (and any other email you may have registered).
 These are not usually very often.
 
-Follow the link provided within the email to the 
+select the link provided within the email
+You will be navigated to the log in page for the MMO portal
 Log into the MCMS system
-Login: Noise.monitoring@jncc.gov.uk
-Password: MNR2021!
+---
+**Login**: Noise.monitoring@jncc.gov.uk
+**Password**: MNR2021!
 
-The application will be within the ‘workbasket’
+The application will be within the **‘workbasket’**
+> If the link opens correctly, the desired application will be presented at the top of the list of applications.
 
-Select the application
+> If the login process has lost the direct link to the desired application.
+Copy and paste the MLA reference number found in the Subject line of the email notification into the transaction/reference text box.
+Navigate to the bottom of the filter section on the left hand side 
+> select: apply filter
 
-Scroll to the top to check the band – if band 3 see trouble shooting below.
+The desired application should now be the only application presented
+> Select: View/Review on the right hand side of the application
 
- 
+At the top of the page within the application consultation section: 
+check the Fee band status – if **band 3** see trouble shooting section at the end of this document.
 
-Check the spreadsheet to see if information is already within the MNR, any updates?
+Before continuing any further:
+Check the spreadsheet (file path below) to see if information is already within the MNR
 
-Select to view the application:
- 
+Z:\Marine\Directives&Conventions\MSFD\UK_Implementation\Art10_Targets&Indicators\R&D\Noise\MNRSept2014_onwards\Noise_Data\Interim\MMO\MMO_MCMS_MNR_proposed_record.xlsx
 
+> Application are presented in chronological order (Earliest first), search through the applications to determine whether the application has already been submitted
+> If yes, check that there have not been any updates - requiring alterations/deletions etc to the current MNR upload
+> If no, input the application details in to the spreadsheet for future reference 
+
+Navigate back to the MMO portal.
+Scroll down through the application consultation page. 
+
+In the Review Ites section:
+Select: View Application:
+
+*************************** Updated to here
 
 Ensure it will involve an impulsive noise generating activity (look at sections XXX and environmental documents included in application, located XXX)
 
