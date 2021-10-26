@@ -108,8 +108,14 @@ Use this data to produce a polygon in the MNR
 **If the list is relatively small > Input coordinates manually
 **If the list is large > Input coordinates via CSV in the same way that you would for MoD/BEIS inputs.
 
+To save application as a draft
+> Select: Save as draft
+To save application officially
+> Select: Save and Submit
+
 Once the application has been fully uploaded to the MNR
->Send the applicant an email for GDPR reasons:
+> Add the AAN to the record in the MMO Tracker spreadsheet.
+> Send the applicant an email for GDPR reasons:
 >- See email template here:
 Z:\Marine\Directives&Conventions\MSFD\UK_Implementation\Art10_Targets&Indicators\R&D\Noise\MNRSept2014_onwards\Noise_Data\Interim\MMO\EmailTempl_PrivacyNotice_MCMS.docx
 
