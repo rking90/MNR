@@ -5,9 +5,8 @@
 **O&G PORTAL STEPS**
 -------------
 
-Log in using the following details:
->**O&G portal Login** – rachel.king@jncc.>gov.uk  
-**Password** – MNR2021!
+Log in using the username and password
+> See Rachel King for details
 
 **Next Page** > will present the main workbasket page.
 
