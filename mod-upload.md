@@ -52,6 +52,8 @@ Conventions\MSFD\UK_Implementation\Art10_Targets&Indicators\R&D\Noise\MNRSept201
 
 **How to upload MoD entries**
 -----------------------------
+Navigate to the MNR webpage 
+https://mnr.jncc.gov.uk/
 
 Log in using the username and password
 > See Rachel King for details
