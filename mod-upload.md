@@ -53,9 +53,8 @@ Conventions\MSFD\UK_Implementation\Art10_Targets&Indicators\R&D\Noise\MNRSept201
 **How to upload MoD entries**
 -----------------------------
 
-Access MNR and use the following log in details
->Login - noise.monitoring@jncc.gov.uk  
->Password - NoiseReg2016
+Log in using the username and password
+> See Rachel King for details
 
 **Next Page** > Will present the "New Activity" form
 
