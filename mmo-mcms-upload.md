@@ -9,8 +9,8 @@ select the link provided within the email
 You will be navigated to the log in page for the MMO portal
 Log into the MCMS system
 ---
-**Login**: Noise.monitoring@jncc.gov.uk
-**Password**: MNR2021!
+Log in using the username and password
+> See Rachel King for details
 
 The application will be within the **‘workbasket’**
 > If the link opens correctly, the desired application will be presented at the top of the list of applications.
